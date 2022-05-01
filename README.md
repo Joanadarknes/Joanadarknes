@@ -1,4 +1,4 @@
-## Olá eu sou a Joana D'arc
+## Olá eu sou a Joana D'arc Dev front-end JR
 <div align="center">
   <a href="https://github.com/Joanadarknes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joanadarknes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
