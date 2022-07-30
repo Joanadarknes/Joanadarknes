@@ -1,4 +1,7 @@
 ## Hello I'm Joana D'arc Front-end web developer
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
+</p>
 <div align="center">
   <a href="https://github.com/joanadarknes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joanadarknes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
