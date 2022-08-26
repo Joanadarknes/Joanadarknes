@@ -1,4 +1,4 @@
-## Hello Welcome! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
+## Hello Welcome! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30"> <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Joanadarknes/count.svg" /></p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
 </p>
