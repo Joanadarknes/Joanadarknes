@@ -1,8 +1,8 @@
 <img width=150% src="https://capsule-render.vercel.app/api?type=waving&width=150%&color=8200ff&fontColor=ffffff&height=300&section=header&text=Hello%20Welcome!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer&descAlignY=61&descAlign=52" />
 
-## <p align="center"> <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30"> <img alingn="center" src="https://profile-counter.glitch.me/Joanadarknes/count.svg" /></p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
+## <p align="center">  Visitantes: <img alingn="center" src="https://profile-counter.glitch.me/Joanadarknes/count.svg" /> <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30"></p>
+
+ ##  <p align="center">  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
 </p>
 <div align="center">
   <a href="https://github.com/joanadarknes">
