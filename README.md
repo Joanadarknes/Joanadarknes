@@ -26,7 +26,7 @@
 </p>
 
 <div align="center">
-<p style="font-size: 20px;">🔎 Total de Visitas<p>
+<p style="font-size: 20px;">🔎  Total Visits<p>
 <p align="center"> <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30"><img alingn="center" src="https://profile-counter.glitch.me/Joanadarknes/count.svg" /></p>
 </div> 
 
