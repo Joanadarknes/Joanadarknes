@@ -1,4 +1,4 @@
-<img width=150% src="https://capsule-render.vercel.app/api?type=waving&width=150%&color=8200ff&fontColor=ffffff&height=300&section=header&text=Hello%20Welcome!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=FullStack%20Developer&descAlignY=61&descAlign=52" />
+<img width=150% src="https://capsule-render.vercel.app/api?type=waving&width=150%&color=000000&fontColor=ffffff&height=300&section=header&text=Hello%20Welcome!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=FullStack%20Developer&descAlignY=61&descAlign=52" />
 
 ##  <p align="center"> <img src="https://media.giphy.com/media/3o7abAHdYvZdBNnGZq/giphy.gif" width="50" style="border-radius:30%" align="center"> Visitantes:  <img alingn="center" src="https://profile-counter.glitch.me/Joanadarknes/count.svg" /> <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30"></p>
 
