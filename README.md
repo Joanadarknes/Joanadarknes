@@ -1,5 +1,10 @@
 <img width=150% src="https://capsule-render.vercel.app/api?type=waving&width=150%&color=000000&fontColor=ffffff&height=300&section=header&text=Hello%20Welcome!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=FullStack%20Developer&descAlignY=61&descAlign=52" />
 
+<div align="center">
+<p style="font-size: 20px;">🔎  Total Visits<p>
+<p align="center"> <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30"><img alingn="center" src="https://profile-counter.glitch.me/Joanadarknes/count.svg" /></p>
+</div> 
+
 <div align="left"><br>
 
   <img align="right" src="https://media.giphy.com/media/3o7abAHdYvZdBNnGZq/giphy.gif" alt="Imagem" min-width="400px" max-width="350px" width="350px" align="right">
@@ -30,13 +35,7 @@
 
 
 
-##  <p align="center">  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
-</p>
 
-<div align="center">
-<p style="font-size: 20px;">🔎  Total Visits<p>
-<p align="center"> <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30"><img alingn="center" src="https://profile-counter.glitch.me/Joanadarknes/count.svg" /></p>
-</div> 
 
 
  ##  <p align="center">  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
@@ -47,9 +46,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joanadarknes&layout=compact&langs_count=20&theme=dark"/>
 </div>            
   
-  ##
   
   
+##  <p align="center">  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
+</p>
+
 
 
 <div align="center">
