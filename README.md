@@ -2,9 +2,17 @@
 
 <div align="left"><br>
 
-  <img align="right" src="https://media.giphy.com/media/3o7abAHdYvZdBNnGZq/giphy.gif" alt="Imagem" min-width="400px" max-width="300px" width="300px" align="right">
+  <img align="right" src="https://media.giphy.com/media/3o7abAHdYvZdBNnGZq/giphy.gif" alt="Imagem" min-width="400px" max-width="350px" width="350px" align="right">
   
-  ## Pleasure Joan of arc
+ ## Pleasure Joan of arc 
+ 
+<div align="left"> 
+  <a href="https://instagram.com/ops_xoana" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:Joanadarknes2233@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/joana-d-arc-25a22a215/" target="_blank">
+  <a href="https://www.linkedin.com/in/joana-d-arc-25a22a215/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+</div><br>
   
   <p>- 💡  I am 20 years old and currently live in São Paulo! </p>
   <p>- 🔭 languages: English | Spanish | Portuguese (Native) </p>
@@ -38,30 +46,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joanadarknes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joanadarknes&layout=compact&langs_count=20&theme=dark"/>
 </div>            
-
-  
-<div align="center" style="display: inline_block"><br>
-  <img align="center" alt="joana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="joana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="joana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="joana-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="joana-java" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="joana-sql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="center" alt="joana-react" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-  <img align="center" alt="joana-react" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-</div>
-
   
   ##
- 
-<div align="Center"> 
+  
+  
 
-  <a href="https://instagram.com/ops_xoana" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:Joanadarknes2233@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/joana-d-arc-25a22a215/" target="_blank">
-  <a href="https://www.linkedin.com/in/joana-d-arc-25a22a215/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-</div>
 
 <div align="center">
   
