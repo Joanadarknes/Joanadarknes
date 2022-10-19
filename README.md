@@ -2,10 +2,11 @@
 
 <div align="left"><br>
 
-  <img align="right" src="https://media.giphy.com/media/3o7abAHdYvZdBNnGZq/giphy.gif" alt="Imagem" min-width="400px" max-width="250px" width="250px" align="right">
+  <img align="right" src="https://media.giphy.com/media/3o7abAHdYvZdBNnGZq/giphy.gif" alt="Imagem" min-width="400px" max-width="300px" width="300px" align="right">
   
   ## Pleasure Joan of arc
   
+  <p>- 💡  I am 20 years old and currently live in São Paulo! </p>
   <p>- 🔭 languages: English | Spanish | Portuguese (Native) </p>
   <p>- 😄 Pronouns: ela | dela</p>
   <p>- 🎸 Hobbies:  Play guitar, drawing and a good coffee! </p>
