@@ -9,7 +9,7 @@
 
   <img align="right" src="https://media.giphy.com/media/3o7abAHdYvZdBNnGZq/giphy.gif" alt="Imagem" min-width="400px" max-width="350px" width="350px" align="right">
   
- ## Pleasure Joan of arc 
+ ## Pleasure Joana D'arc 
  
 <div align="left"> 
   <a href="https://instagram.com/ops_xoana" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
