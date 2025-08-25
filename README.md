@@ -17,7 +17,9 @@
   </td>
 </tr>
 </table>
+
 ### 📊 Estatísticas
+
 <div align="center">
 <br/>
 <img 
@@ -32,9 +34,6 @@
 />
 
 </div>
-
-
-
 
 <div style="text-align: center;" align="center">
 <picture>
