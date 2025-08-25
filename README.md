@@ -7,7 +7,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
   </a>
 <img align="right" alt="" height="190px" src="./study.gif">
-
+</div>
 <br/>
 <br/>
 <br/>
@@ -16,10 +16,10 @@
 <br/>
 <h3 align="center">Connect with me!</h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:joanadarknes2233@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/joanadarc2233/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/ops_xoana/)
-</div>
+  [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:joanadarknes2233@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/joanadarc2233/)
+  [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/ops_xoana/)
+
 
 #
 <div align="center">
@@ -29,7 +29,8 @@
 <br/>
   
 ### 📊 Estatísticas
-
+<br/>
+<br/>
 <img 
       alt="GitHub Stats" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joanadarknes&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
