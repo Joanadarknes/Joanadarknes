@@ -30,6 +30,7 @@
 <img 
   alt="Top Langs" 
   height="180em"
+  width="350em"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joanadarknes&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
 />
 
