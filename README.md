@@ -1,5 +1,5 @@
 
-<div align-itens="center">
+<div align="left">
 <img align="right" height="190px" src="./study.gif">
 
 <br/>
