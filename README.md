@@ -12,18 +12,12 @@
   [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6)](https://www.instagram.com/ops_xoana/)
     </td>
 
-    <!-- Coluna direita (imagem) -->
   <td align="right" width="90%">
     <img height="190px" src="./study.gif">
   </td>
 </tr>
 </table>
 
-
-
-<br/>
-
-#
 <div align="center">
 <br/>
 <br/>
