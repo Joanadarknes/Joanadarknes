@@ -7,6 +7,10 @@
 <img align="right" alt="" height="190px" src="./study.gif">
 <br/>
 <br/>
+<br/>
+<br/>
+<br/>
+<br/>
 <h3 align="center">Connect with me!</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:joanadarknes2233@gmail.com)
