@@ -19,23 +19,23 @@
 </table>
 
 <div align="center">
-<br/>
-<br/>
-<br/>
-<br/>
   
 ### 📊 Estatísticas
 <br/>
-<br/>
+
 <img 
-      alt="GitHub Stats" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joanadarknes&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  alt="Top Langs" 
+  height="180em"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joanadarknes&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
 />
 <img 
-      alt="GitHub Stats" 
-      src="https://github-readme-stats.vercel.app/api?username=Joanadarknes&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  alt="GitHub Stats" 
+  height="180em"
+  src="https://github-readme-stats.vercel.app/api?username=Joanadarknes&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
 />
+
 </div>
+
 
 
 <div style="text-align: center;" align="center">
