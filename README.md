@@ -20,6 +20,8 @@
 
 ### 📊 Estatísticas
 
+---
+
 <div >
 <br/>
 <img 
@@ -36,6 +38,8 @@
 
 </div>
 
+---
+
 <div style="text-align: center;" align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Joanadarknes/Joanadarknes/blob/output/github-contribution-grid-snake-dark.svg" />
@@ -44,4 +48,4 @@
 </picture>
 </div>
 
-
+---
