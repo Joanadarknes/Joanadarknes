@@ -17,13 +17,6 @@
 <img align="right" alt="" height="190px" src="./study.gif">
 
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-
 
 #
 <div align="center">
