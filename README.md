@@ -25,11 +25,6 @@
 <div >
 <br/>
 <img 
-  alt="GitHub Stats" 
-  height="180em"
-  src="https://github-readme-stats.vercel.app/api?username=Joanadarknes&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-/>
-<img 
   alt="Top Langs" 
   height="180em"
   width="350em"
