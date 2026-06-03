@@ -17,7 +17,7 @@
   </td>
 </tr>
 </table>
-<div style="text-align: center;" align="center">
+<div style="text-align: left;" align="left">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Joanadarknes/Joanadarknes/blob/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Joanadarknes/Joanadarknes/blob/output/github-contribution-grid-snake.svg" />
